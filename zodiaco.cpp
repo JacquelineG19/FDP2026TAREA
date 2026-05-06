@@ -23,6 +23,7 @@ cout << "10. Octubre" << endl;
 cout << "11. Noviembre" << endl;
 cout << "12. Diciembre" << endl;
 cout << "13. Salir" << endl;
+cout << "Mes de nacimiento: ";
 cin >> mes;
 
 

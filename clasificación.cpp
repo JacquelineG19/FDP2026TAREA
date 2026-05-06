@@ -8,11 +8,13 @@ int main (){
 
     int edad;
 
-    cout << "Bienvenido" << endl;
-    cout << "Por favor ingrese su edad para recomendar una categoria de peliculas" << endl;
-    cout << "edad: ";
-    cin >> edad;
+//Solicitando edad al usuario
+cout << "Bienvenido" << endl;
+cout << "Por favor ingrese su edad para recomendar una categoria de peliculas" << endl;
+cout << "edad: ";
+cin >> edad;
 
+//Evaluando que categoria recomendar
 switch (edad)
 {
 case 1:
