@@ -17,6 +17,7 @@ cout << "3. Taxi" << endl;
 cout << "Opcion: ";
 cin >> tipo;
 
+//Evaluando el costo del viaje
 switch (tipo)
 {
 case 1:
